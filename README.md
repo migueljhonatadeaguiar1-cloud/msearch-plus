@@ -4,7 +4,7 @@ An open-source search engine of your own that runs on your computer: **crawler**
 
 > **No third-party search API** (Google, Bing, SerpAPI, Brave, DuckDuckGo…) is used. Your queries never leave your computer: the index is local.
 
-It is part of a set with [JARVIS](../jarvis), which can query the M-Search+ index by voice and text, but it works completely on its own.
+It is part of a set with [JARVIS](https://github.com/migueljhonatadeaguiar1-cloud/jarvis), which can query the M-Search+ index by voice and text, but it works completely on its own.
 
 > The sample pages and the UI are in Brazilian Portuguese; the search itself works with any language.
 
