@@ -26,7 +26,7 @@ It is part of a set with [JARVIS](https://github.com/migueljhonatadeaguiar1-clou
 ## Install and use
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/msearch-plus.git
+git clone https://github.com/migueljhonatadeaguiar1-cloud/msearch-plus.git
 cd msearch-plus
 
 python3 -m venv .venv
